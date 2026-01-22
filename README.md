@@ -41,7 +41,7 @@ Written by **Old Fang** (a CTO currently working in the AI industry), this book 
 * ❌ **禁止商用**：未经作者书面授权，禁止任何形式的商业使用（包括但不限于付费阅读、出版、培训课程、营销号洗稿等）。
 * ❌ **禁止演绎**：转载时请保持内容完整，不得篡改。
 
-**实体书出版计划正在推进中（意向出版社：中信出版社）。**
+**实体书出版计划正在推进中。**
 如果您喜欢这个开源版本，请点击右上角的 **Star** ⭐️。这不仅是对作者的支持，您的每一次 Star 都是加速实体书面世的投票！
 
 ---
@@ -131,4 +131,5 @@ Written by **Old Fang** (a CTO currently working in the AI industry), this book 
 ---
 
 *Created with ❤️ by Human & AI in 2026.*
+
 
