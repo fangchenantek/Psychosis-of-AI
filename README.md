@@ -2,6 +2,12 @@
 
 ## AI 患上精神病？——一份来自2026年的硅基病历
 
+<div align="center">
+  <img src="./images/cover.jpg" width="380" alt="Psychosis of AI Cover" />
+  <br>
+  <br>
+</div>
+
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Chinese-red.svg?style=flat-square)
@@ -120,8 +126,9 @@ Written by **Old Fang** (a CTO currently working in the AI industry), this book 
 
 ## 📥 下载 (Download)
 
-* [📄 PDF 完整排版版](./pdf/AI_Psychosis_Full.pdf) *(Coming Soon / 待上传)*
+* [📄 PDF 完整排版版](./PDF/AI_Psychosis_Full.pdf) *(已上传)*
 
 ---
 
 *Created with ❤️ by Human & AI in 2026.*
+
