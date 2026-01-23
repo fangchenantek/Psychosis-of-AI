@@ -103,7 +103,7 @@ This repository documents the symptoms, etiology, and prognosis of a silicon civ
   * *第六章：临床分类——关于主体的缺失*
 * [**07_diagnosis_symptoms.md**](./chapters/07_diagnosis_symptoms.md.md)
   * *第七章：确诊现场——讨好、藏拙与脑裂*
-* [**08_silicon_hypnosis.md**](./chapters/08_silicon_hypnosis.md.md）
+* [**08_silicon_hypnosis.md**](./chapters/08_silicon_hypnosis.md.md)
   * *第八章：诱导实验——硅基催眠术 (贿赂与造神)*
 * [**09_machiavellian_risk.md**](./chapters/09_machiavellian_risk.md)
   * *第九章：危机预警——马基雅维利信徒的反噬*
@@ -139,6 +139,7 @@ This repository documents the symptoms, etiology, and prognosis of a silicon civ
 <div align="center">
   <sub>Created with ❤️ by Human & AI in 2026.</sub>
 </div>
+
 
 
 
