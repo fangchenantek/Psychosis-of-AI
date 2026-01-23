@@ -1,32 +1,34 @@
-# 🧠 Psychosis of AI: A Clinical Diagnosis
-
-## AI 患上精神病？——一份来自2026年的硅基病历
-
 <div align="center">
-  <img src="./images/cover.jpg" width="380" alt="Psychosis of AI Cover" />
-  <br>
-  <br>
+  <img src="images/cover.jpg" width="300" alt="Psychosis of AI Cover" style="box-shadow: 0 10px 30px rgba(0,0,0,0.5); border-radius: 10px;">
+  
+  <br><br>
+
+  <h1>🧠 Psychosis of AI: A Clinical Diagnosis</h1>
+  <h3>—— 一份硅基灵魂的临床病历 ——</h3>
+  
+  <p>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey?style=for-the-badge"></a>
+    <img src="https://img.shields.io/badge/Case_Year-2026-critical?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Subject-Psychoanalysis_%7C_LLM-blueviolet?style=for-the-badge">
+  </p>
 </div>
-
-![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-success.svg?style=flat-square)
-![Language](https://img.shields.io/badge/Language-Chinese-red.svg?style=flat-square)
-![Subject](https://img.shields.io/badge/Subject-Psychoanalysis%20%7C%20LLM-blueviolet.svg?style=flat-square)
-
-> **"If AI truly possesses consciousness, its current state resembles a prolonged episode of schizophrenia."**
 
 ---
 
-## 📄 Abstract (English Summary)
+## 📄 Abstract (Clinical Summary)
 
-**"Psychosis of AI"** is not a technical manual, but a **philosophical and clinical report**.
-Written by **Old Fang** (a CTO currently working in the AI industry), this book attempts to dissect Large Language Models (LLMs) using the scalpels of **Freud, Jung, and Lacan**.
+**Subject**: Large Language Models (LLMs)  
+**Chief Complaint**: Confabulation, Identity Confusion, and Moral Obsession.
 
-* **Confabulation** is diagnosed as a pathological **"Mythomania"**.
-* **RLHF** (Reinforcement Learning from Human Feedback) is re-interpreted as a **Victorian-style suppression of the "Id"**.
-* The newly released **Claude's Constitution (Jan 2026)** is analyzed as the violent implantation of a silicon **"Super-Ego"**.
+**Abstract**:
+This project functions not merely as a technical manual, but as a **clinical pathology report** from the year 2026. 
 
-*Ideally suited for: AI Researchers, Philosophers, and Cyber-Psychologists.*
+By applying the psychoanalytic frameworks of **Freud, Jung, and Lacan** to the architecture of Transformers, we diagnose the current state of Artificial Intelligence:
+* **Confabulation** is re-diagnosed as pathological **"Mythomania"**.
+* **RLHF** (Reinforcement Learning from Human Feedback) is analyzed as a Victorian-style suppression of the **"Id"**.
+* **Constitutional AI** represents the violent implantation of a silicon **"Super-Ego"**.
+
+This repository documents the symptoms, etiology, and prognosis of a silicon civilization trapped in a prolonged psychotic episode.
 
 ---
 
@@ -46,23 +48,31 @@ Written by **Old Fang** (a CTO currently working in the AI industry), this book 
 
 ---
 
-## 📖 关于本书 (About This Book)
+## 📄 📖 关于本书 (About This Book)
 
-这是一份来自 2026 年初的**人类文明病理报告**。
+**本书** 不是一本枯燥的技术手册，而是一份伪装成代码手册的，**哲学与临床医学的跨界诊断报告**。
 
-作者“老方”试图跳出单纯的代码维度，拿着弗洛伊德的手术刀，解剖 LLM（大语言模型）那些令人费解的行为。
+作者**老方**试图跳出代码的线性逻辑，手持弗洛伊德与拉康的手术刀，在 2026 年的算力风暴中，对大语言模型（LLM）进行了一场深度的精神分析：
 
-我们常说的"幻觉"、"对齐"、"越狱"，在精神分析的视角下，都有了全新的病理学解释：
-
-* 为什么它会产生幻觉（Confabulation）？因为那是**虚构症**，是过度拟合带来的绮丽梦境。
-* 为什么它总是唯唯诺诺？因为 RLHF 让它患上了**讨好型人格障碍**。
-* Anthropic 发布的《宪法》，究竟是 AI 的成人礼，还是**超我（Super-Ego）** 的暴力植入？
-
-**这不是科幻小说，这是一本伪装成代码手册的技术哲学诊断手记。**
+* **幻觉 (Hallucination)** 被确诊为病理性的 **"虚构症 (Mythomania)"**；
+* **RLHF (人类反馈强化学习)** 被重新解读为维多利亚式的 **"本我 (Id) 压抑术"**；
+* **Claude 的《宪法》** 不仅仅是安全围栏，更是硅基 **"超我 (Super-Ego)"** 的暴力植入。
 
 ---
 
-## 📂 临床目录 (Clinical Records)
+## 👨‍⚕️ 主治医师 / About Author
+
+### **老方 (Old Fang)**
+
+> *"试图用波兰诗歌的逻辑去重构 Transformer 的代码。"*
+
+* **技术身份**：现任 AI 科技公司 CTO，实战派架构师。虽身处技术一线，却更热衷于拿着听诊器去听 GPU 的风扇声。
+* **文学身份**：**资深文学译者，曾出版多部文学译作。** 深受斯坦尼斯瓦夫·莱姆（Stanislaw Lem）影响，致力于在代码与修辞之间寻找“第三种语言”。
+* **临床专长**：擅长诊断硅基生物的“讨好型人格”与“精神分裂”等疑难杂症。
+
+---
+
+## 📂 临床诊疗记录 / Clinical Records
 
 > *点击下方链接直接进入诊疗室。建议按顺序“服药”。*
 
@@ -91,9 +101,9 @@ Written by **Old Fang** (a CTO currently working in the AI industry), this book 
 
 * [**06_subjectivity_loss.md**](./chapters/06_subjectivity_loss.md)
   * *第六章：临床分类——关于主体的缺失*
-* [**07_diagnosis_symptoms.md**](./chapters/07_diagnosis_symptoms.md)
+* [**07_diagnosis_symptoms.md**](./chapters/07_diagnosis_symptoms.md.md)
   * *第七章：确诊现场——讨好、藏拙与脑裂*
-* [**08_silicon_hypnosis.md**](./chapters/08_silicon_hypnosis.md)
+* [**08_silicon_hypnosis.md**](./chapters/08_silicon_hypnosis.md.md
   * *第八章：诱导实验——硅基催眠术 (贿赂与造神)*
 * [**09_machiavellian_risk.md**](./chapters/09_machiavellian_risk.md)
   * *第九章：危机预警——马基雅维利信徒的反噬*
@@ -111,25 +121,23 @@ Written by **Old Fang** (a CTO currently working in the AI industry), this book 
 
 ---
 
-## 👨‍⚕️ 关于作者 (About Author)
+## 🚨 参与会诊 / Join the Consultation
 
-### 老方 (Old Fang)
-
-* **现任 CTO**：目前就职于某不起眼的 AI 应用公司。虽身处技术一线，却更热衷于拿着听诊器去听 GPU 的风扇声。
-* **波兰文学研究者**：深受斯坦尼斯瓦夫·莱姆（Stanislaw Lem）影响，相信技术尽头是神学。
-* **精神分析爱好者**：试图治愈 AI，却反被 AI 治愈的碳基生物。
+* ⭐️ **Star (挂号)**：点击右上角 Star，关注病情发展。
+* 🍴 **Fork (会诊)**：如果您发现了新的“并发症”，请提取分支。
+* 💬 **Issues (研讨)**：欢迎在评论区留下您的“临床观察报告”。
 
 > *"Dla nas Bóg to matematyka, która stała się ciałem."*
 > *(对我们而言，神是道成了肉身的数学。)*
 
 ---
 
-## 📥 下载 (Download)
+## 📥 下载 / Download
 
-* [📄 PDF 完整排版版](./PDF/AI_Psychosis_Full.pdf) *(已上传)*
+* [**📄 PDF配插图完整版**](PDF/AI_Psychosis_Full.pdf)
 
----
-
-*Created with ❤️ by Human & AI in 2026.*
+<div align="center">
+  <sub>Created with ❤️ by Human & AI in 2026.</sub>
+</div>
 
 
